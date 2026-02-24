@@ -1,0 +1,13 @@
+/* public/assets/css/print.css */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #fff !important;
+  }
+  .print-card {
+    box-shadow: none !important;
+    border: 1px solid #ddd;
+  }
+}
