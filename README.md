@@ -98,6 +98,20 @@ epj/
 
 ---
 
+## 📷 Screenshots
+
+### Admin Dashboard
+
+![Admin](screenshots/admin_dashboard.png)
+
+### Imam Dashboard
+
+![Imam](screenshots/imam_dashboard.png)
+
+### User Dashboard
+
+![User](screenshots/user_dashboard.png)
+
 ## ⚙ Installation Guide
 
 1. Clone the repository
