@@ -12,6 +12,15 @@ The system simulates a real-world internal administrative portal with strict rol
 
 ---
 
+## 📈 System Highlights
+
+- 3 User Roles
+- 10+ Modular Pages
+- Full CRUD Operations
+- Approval Workflow Simulation
+- Financial Tracking System
+- Analytics Dashboard
+
 ## 👥 User Roles
 
 ### 🔹 Waris (User)
@@ -112,6 +121,8 @@ epj/
 
 ![User](screenshots/user_dashboard.png)
 
+---
+
 ## ⚙ Installation Guide
 
 1. Clone the repository
@@ -119,6 +130,17 @@ epj/
 3. Rename `app/config/db.example.php` to `db.php`
 4. Configure your database credentials
 5. Run using XAMPP / Apache
+
+---
+
+## 💡 What I Learned
+
+- Designing multi-level approval workflows
+- Implementing role-based access control (RBAC)
+- Handling secure file uploads and controlled file serving
+- Managing financial lifecycle state transitions
+- Building KPI dashboards and analytics using Chart.js
+- Structuring modular PHP applications
 
 ---
 
